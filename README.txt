@@ -19,3 +19,17 @@ Project Structure.
 https://www.blender.org/download/
 
 https://www.jetbrains.com/pycharm/
+
+
+VERSIONS
+------------
+
+MySQL: 8.0.25-0ubuntu0.20.04.1 for Linux on x86_64 ((Ubuntu))
+Python: Python 3.8
+Blender: Blender 2.8
+
+REQUIREMENTS
+------------
+
+MySQL Connector
+shell> pip install mysql-connector-python
